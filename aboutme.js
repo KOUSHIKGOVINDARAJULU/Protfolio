@@ -1,0 +1,1 @@
+var click = document.getElementById(link_sub1f)
